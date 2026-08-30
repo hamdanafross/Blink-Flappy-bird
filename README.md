@@ -23,3 +23,9 @@ Follow these steps to set up and run the game on **Ubuntu / Linux**:
 ```bash
 sudo apt update
 sudo apt install -y python3.12 python3.12-venv libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev libgl1 libglx-mesa0 v4l-utils
+
+### 📂 Repository Structure
+
+- `blink_flappy_bird.py` - Main Python game script with OpenCV & MediaPipe integration.
+- `blink_bird_save.json` - Local storage file for persisting your highest score.
+- `README.md` - Setup and gameplay documentation.
