@@ -23,6 +23,7 @@ Follow these steps to set up and run the game on **Ubuntu / Linux**:
 ```bash
 sudo apt update
 sudo apt install -y python3.12 python3.12-venv libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev libgl1 libglx-mesa0 v4l-utils
+```
 
 ### 📂 Repository Structure
 
@@ -33,6 +34,8 @@ sudo apt install -y python3.12 python3.12-venv libsdl2-dev libsdl2-image-dev lib
 ---
 
 ## Appendix
-<img width="485" height="713" alt="Screenshot From 2026-08-30 16-34-08" src="https://github.com/user-attachments/assets/df6bd748-38d0-48e0-9f10-a7649e6e0173" />
-/home/hamdan-afross/Pictures/Screenshots/Screenshot From 2026-08-30 16-33-20.png
-/home/hamdan-afross/Pictures/Screenshots/Screenshot From 2026-08-30 16-33-03.png
+<img width="485" height="713" alt="Screenshot From 2026-08-30 16-33-03" src="https://github.com/user-attachments/assets/6f378c9b-4596-4070-8f00-d829a1b613f0" />
+<img width="485" height="713" alt="Screenshot From 2026-08-30 16-33-20" src="https://github.com/user-attachments/assets/8e8e0786-b0f4-4c32-805a-c2538ba67f3e" />
+<img width="485" height="713" alt="Screenshot From 2026-08-30 16-34-08" src="https://github.com/user-attachments/assets/128ca70d-993c-4324-9b44-7c9ecb26811c" />
+
+
